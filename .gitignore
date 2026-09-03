@@ -1,0 +1,9 @@
+data/
+*.h5ad
+*.rds
+*.csv
+!results/tables/*.csv
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.DS_Store
