@@ -3,7 +3,7 @@
 ## 2026-09-03 — Day 1
 
 ### Research question status
-Which genes and proteins are shared between the axolotl limb blastema, the regenerative (distal) mouse digit tip, and the regenerative phases of human fingertip healing?
+Which ortholog-mapped genes and corresponding proteins are conserved across the axolotl limb blastema, regenerative (distal) mouse digit tip, and regenerative phases of human fingertip healing?
 Which of these conserved candidates are absent, downregulated, or delayed in the non-regenerative mouse digit tip (proximal amputation), representing a plausible molecular barrier to regeneration?
 Which biological pathways and interaction hubs emerge from this conserved gene set, and how do they relate to known regeneration mechanisms (ECM remodeling, immune modulation, blastema formation)?
 
