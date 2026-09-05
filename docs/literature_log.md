@@ -219,3 +219,36 @@ The human dataset should not be treated as a direct transcriptomic equivalent of
 
 - Refine the 3 research questions in light of today's reading.
 - Begin the annotated bibliography deliverable required by Phase 1 (Weeks 1–2) of the synopsis.
+
+- ## Day 3 — Literature Validation and Research Question Finalization
+**Date:** 2026-09-05
+
+### Work Completed
+
+- Completed the Phase 1 annotated bibliography and data-access note.
+- Reviewed Zhong et al. (2023) as a methodological precedent for cross-species single-cell comparison and ortholog-based analysis.
+- Confirmed that Zhong et al. used one-to-one orthologs for cross-species integration, but its biological objective differs from the present FYP.
+- Resolved the citation discrepancy for GSE241132: the dataset is associated with Liu et al. (2025), Cell Stem Cell.
+- Confirmed GSE241132 as an optional human single-cell comparator rather than a core dataset for the initial analysis.
+- Corrected the DOI for Illingworth (1974) to 10.1016/S0022-3468(74)80220-4.
+- Finalized the working research questions after reviewing the available datasets and literature.
+
+### Final Working Research Questions
+
+**RQ1:** Which ortholog-mapped genes and corresponding proteins are conserved across the axolotl limb blastema, regenerative (distal) mouse digit tip, and regenerative phases of human fingertip healing?
+
+**RQ2:** Which of these conserved candidates are absent, downregulated, or delayed in the non-regenerative mouse digit tip (proximal amputation), representing a plausible molecular barrier to regeneration?
+
+**RQ3:** Which biological pathways and interaction hubs emerge from this conserved gene set, and how do they relate to known regeneration mechanisms (ECM remodeling, immune modulation, blastema formation)?
+
+### Methodological Note
+
+RQ1 was refined from "shared genes and proteins" to "ortholog-mapped genes and corresponding proteins" to make the cross-species comparison methodologically explicit. This wording reflects the need to establish orthology before comparing candidates across axolotl, mouse, and human datasets.
+
+### Day 3 Outcome
+
+Week 1 literature and project-definition work is complete. The core datasets, literature foundation, data-access considerations, and three working research questions have been established.
+
+### Next Step
+
+Day 4 — Week 2 Data Reconnaissance: establish the exact input files, biological groups, timepoints/phases, identifiers, and analysis-ready data requirements for each core dataset before downloading and processing data.
