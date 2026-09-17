@@ -252,3 +252,22 @@ Week 1 literature and project-definition work is complete. The core datasets, li
 ### Next Step
 
 Day 4 — Week 2 Data Reconnaissance: establish the exact input files, biological groups, timepoints/phases, identifiers, and analysis-ready data requirements for each core dataset before downloading and processing data.
+
+### Final dataset list going into Week 3+
+
+#### Core datasets
+- Axolotl: GSE106269 — confirmed; processed Tables S3, S5, S7, S8, and S9. Original study used the Am_2.2 axolotl transcriptome.
+- Mouse: GSE131078 — confirmed; processed gene-count matrix available.
+- Human: Schultz et al. 2025 published supplementary tables — confirmed; ProteomeXchange accession PXD067200.
+
+#### Optional comparator
+- GSE241132 (Liu et al.): DEFER — retain as a human skin-wound comparator rather than a core dataset.
+
+#### Additional datasets flagged for validation
+- GSE121737 — additional axolotl regeneration scRNA-seq dataset.
+- GSE143888 — additional mouse digit-tip regeneration scRNA-seq dataset.
+- GSE243225 — multi-species regeneration atlas.
+
+#### Decision for Week 3
+The primary comparative analysis will proceed with GSE106269, GSE131078, and the published Schultz et al. 2025 human fingertip dataset. Additional datasets will be retained as potential validation resources and will not be incorporated into the main analysis yet.
+
