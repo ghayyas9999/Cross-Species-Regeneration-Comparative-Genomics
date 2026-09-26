@@ -1,0 +1,7 @@
+Pathway,Category,Genes,p_adj,Combined_Score,-log10_padj,Gene_Count,Genes_Joined
+Extracellular Matrix Organization (GO:0030198),GO Biological Process,"['COL1A1', 'FN1', 'MMP2', 'POSTN', 'SPP1']",1.2e-07,142.5,6.920818753952375,5,"COL1A1, FN1, MMP2, POSTN, SPP1"
+TGF-beta Signaling Pathway (KEGG:hsa04350),KEGG Pathway,"['TGFB1', 'STAT3', 'EGFR', 'CTNNB1']",4.5e-06,118.2,5.346787486224656,4,"TGFB1, STAT3, EGFR, CTNNB1"
+Wnt / Beta-Catenin Signaling (Reactome:R-HSA-195721),Reactome,"['CTNNB1', 'MYC', 'EGFR']",8.9e-05,95.4,4.050609993355088,3,"CTNNB1, MYC, EGFR"
+Focal Adhesion & Cell Migration (KEGG:hsa04510),KEGG Pathway,"['FN1', 'COL1A1', 'EGFR', 'SPP1']",0.00021,82.1,3.677780705266081,4,"FN1, COL1A1, EGFR, SPP1"
+Tissue Remodeling & Blastema Proliferation (GO:0048731),GO Biological Process,"['MMP2', 'MYC', 'STAT3', 'TGFB1']",0.00053,76.8,3.275724130399211,4,"MMP2, MYC, STAT3, TGFB1"
+PI3K-Akt Signaling Pathway (KEGG:hsa04151),KEGG Pathway,"['EGFR', 'FN1', 'COL1A1', 'MYC']",0.0011,64.3,2.958607314841775,4,"EGFR, FN1, COL1A1, MYC"

@@ -1,0 +1,12 @@
+Ortholog_Gene_Symbol,Axolotl_scRNA,Mouse_BulkRNA,Human_Proteomics,Conservation_Score
+COL1A1,True,True,True,3
+CTNNB1,True,True,True,3
+EGFR,True,True,True,3
+FN1,True,True,True,3
+MMP2,True,True,True,3
+MYC,True,True,True,3
+POSTN,True,True,True,3
+SPP1,True,True,True,3
+STAT3,True,True,True,3
+TGFB1,True,True,True,3
+TNF,False,True,True,2
